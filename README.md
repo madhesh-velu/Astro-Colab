@@ -127,4 +127,6 @@ SOFTWARE.
 - Firebase
 - Netlify
 
-Feedback and Support We value your feedback! If you have any questions, suggestions, or encounter any issues while using Astro-Colab, please reach out to us. Your input helps us improve the community and provide a better experience.
+## Feedback and Support
+
+We value your feedback! If you have any questions, suggestions, or encounter any issues while using Astro-Colab, please reach out to us. Your input helps us improve the community and provide a better experience.
