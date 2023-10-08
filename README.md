@@ -111,8 +111,9 @@ SOFTWARE.
 </tr>
 
 ## tools used
-- Android studio
+- VS Code
 - Adobe xd
+- Figma
 - Github.
 
 ## Technologies
