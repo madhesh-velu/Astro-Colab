@@ -118,6 +118,7 @@ SOFTWARE.
 
 ## Technologies
 - React.js
+- Tailwind CSS framework 
 - Python
 - Firebase
 - Netlify
