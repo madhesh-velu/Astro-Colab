@@ -108,10 +108,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Acknowledgments
+## Contributors
 
 <tr><td align="center"><a href="https://github.com/madhesh-v"><kbd><img src="https://avatars.githubusercontent.com/u/83573352?v=4?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Madhesh Velu</b></sub></a><br /></td>
 
+<tr><td align="center"><a href="https://www.github.com/KEERTHI1912"><kbd><img src="https://avatars.githubusercontent.com/u/75976487?v=4?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Keerthi</b></sub></a><br /></td>
 </tr>
 
 ## tools used
