@@ -1,5 +1,9 @@
 # Astro Colab
 
+<p align="center">
+  <a href="https://github.com/madhesh-velu" target="_blank" rel="noreferrer"><img src="https://github.com/madhesh-velu/Astro-Colab/blob/main/public/App%20ScreenShots/Sign%20in%20page.png" alt="my banner"></a>
+</p>
+
 ## Introduction
 
 Welcome to Astro-Colab! This is an open-source platform designed to foster collaboration among developers and creators in the open-source community.
